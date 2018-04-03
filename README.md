@@ -11,17 +11,17 @@ Step 2: Open ammysid9/2-storied-Building using revit 2013 or above.
 
 Step 3: Use revit command to view the project.
 
-#Structural plan
+# Structural plan
 
-#Ground Floor
+## Ground Floor
 
 ![alt text](https://github.com/ammysid9/BY.Home/blob/master/Screen%20shots/Ground%20floor%20plan.png?raw=true)
 
-#1nd Floor
+## 1nd Floor
 
 ![alt text](https://github.com/ammysid9/BY.Home/blob/master/Screen%20shots/1st%20floor%20plan.png?raw=true)
 
-#3D Views
+## 3D Views
 
 ![alt text](https://github.com/ammysid9/BY.Home/blob/master/Screen%20shots/East%20view.png?raw=true)
 
